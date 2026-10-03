@@ -1,13 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="120" alt="Dopamind logo">
-
-# Dopamind
-
-### Build. Experiment. Learn.
-
-An independent engineering lab exploring AI systems,
-intelligent agents, developer tools, and modern software.
+<img src="./assets/logo.png" width="80%" alt="Dopamind logo">
 
 </div>
 
@@ -15,7 +8,7 @@ intelligent agents, developer tools, and modern software.
 
 ## About
 
-Dopamind is a home for experiments, tools, and open-source
+Dopamind is a home for experiments, tools and open-source
 projects at the intersection of artificial intelligence and
 software engineering.
 
@@ -46,5 +39,5 @@ Projects will appear here as the Dopamind ecosystem grows.
 ---
 
 <p align="center">
-Dopamind · Engineering ideas into systems.
+Dopamind · Engineering ideas into systems
 </p>
